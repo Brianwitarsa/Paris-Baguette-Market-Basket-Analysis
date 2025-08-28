@@ -4,6 +4,7 @@ Market Basket Analysis using Apriori Algorithm
 Summary
 - Import Data
 - Clean Data
+- Explore Data
 - Data Aggregation
 - Association Rule Mining
 - Apriori Algorithm
